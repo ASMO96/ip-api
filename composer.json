@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/http-client": "^5.0",
+        "symfony/console": "^5.0",
+        "nikic/fast-route": "^1.3",
+        "silex/silex": "~2.0",
+        "phpwhois/phpwhois": "~4.0",
+        "ext-json": "*",
+        "pear/net_dns2": "^1.4"
+    }
+}
